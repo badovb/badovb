@@ -1,4 +1,4 @@
-# Olá, eu sou o Victor Bado
+# Olá, eu sou o Victor 
 
 Estudante de Análise e Desenvolvimento de Sistemas  
 Experiência com controle de estoque (SIAFI, ComprasGov)  
