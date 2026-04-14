@@ -1,25 +1,42 @@
 # Olá, eu sou o Victor Bado
 
-Estudante de Análise e Desenvolvimento de Sistemas  
-Experiência com controle de estoque (SIAFI, ComprasGov)  
-Em transição para área de TI  
+Desenvolvedor Fullstack em formação, com foco em Java (Spring Boot) e React.
+
+Experiência prática com desenvolvimento de sistemas web, APIs REST e integração com banco de dados PostgreSQL.
 
 ## Projetos em destaque
 
-### Inventory Management System
-- 🔗 Frontend: https://github.com/badovb/estoque-front
-- 🔗 Backend: https://github.com/badovb/controle-estoque-java
+## 🏢 Sistema de Controle de Estoque (Fullstack)
 
-✔ CRUD completo  
-✔ Integração com PostgreSQL  
-✔ API REST + Interface Web  
+Aplicação web completa para gestão de produtos, com operações CRUD, busca e autenticação.
 
-## Tecnologias
-- Java | Spring Boot  
-- PostgreSQL  
-- React | JavaScript  
-- Git & GitHub  
+🔗 Demo: https://estoque-front-two.vercel.app
+🔗 API: https://controle-estoque-api-esnm.onrender.com/produtos
 
+### 🧠 Funcionalidades
+
+- Cadastro, edição e exclusão de produtos
+- Busca por nome
+- Integração frontend + backend
+- API REST estruturada
+- Tela de login (simulação de autenticação)
+
+### 🛠️ Arquitetura
+
+- Backend: Spring Boot (Controller, Service, Repository)
+- Frontend: React (Hooks, consumo de API)
+- Banco: PostgreSQL
+- Deploy: Render (API) + Vercel (Frontend)
+
+
+  ### 🔒 Melhorias futuras
+
+- Autenticação com JWT
+- Controle de usuários
+- Dashboard com gráficos
+
+  
 ## Contato
 - LinkedIn: https://www.linkedin.com/in/victor-bado-8382b9376/
 - Email: vtbado@gmail.com
+- 
