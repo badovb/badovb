@@ -6,7 +6,7 @@ Em transição para área de TI
 
 ## Projetos em destaque
 
-### Sistema de Controle de Estoque
+### Inventory Management System
 - 🔗 Frontend: https://github.com/badovb/estoque-front
 - 🔗 Backend: https://github.com/badovb/controle-estoque-java
 
