@@ -13,6 +13,11 @@ Aplicação web completa para gestão de produtos, com operações CRUD, busca e
 🔗 Demo: https://estoque-front-two.vercel.app
 🔗 API: https://controle-estoque-api-esnm.onrender.com/produtos
 
+## 🌐 Acesse o projeto
+
+- 🔗 Frontend: https://github.com/badovb/estoque-front  
+- 🔗 Backend: https://github.com/badovb/controle-estoque-java  
+
 ### 🧠 Funcionalidades
 
 - Cadastro, edição e exclusão de produtos
@@ -44,4 +49,4 @@ Aplicação web completa para gestão de produtos, com operações CRUD, busca e
 ## Contato
 - LinkedIn: https://www.linkedin.com/in/victor-bado-8382b9376/
 - Email: vtbado@gmail.com
-- 
+  
