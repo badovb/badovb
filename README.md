@@ -28,6 +28,11 @@ Aplicação web completa para gestão de produtos, com operações CRUD, busca e
 - Banco: PostgreSQL
 - Deploy: Render (API) + Vercel (Frontend)
 
+  ## 📷 Demonstração
+
+![Login](./screenshots/login.png)
+![Sistema](./screenshots/sistema.png)
+
 
   ### 🔒 Melhorias futuras
 
